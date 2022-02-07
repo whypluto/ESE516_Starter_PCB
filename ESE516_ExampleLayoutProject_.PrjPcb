@@ -623,7 +623,7 @@ UniqueID=BC0CE679-049C-4B69-94F9-44606582BF8E
 Description=Build_Alt
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
+VariationCount=31
 Variation1=Designator=TP1|UniqueId=\NJVBXXVZ|Kind=1|AlternatePart= 
 Variation2=Designator=TP3|UniqueId=\MFGVQVPB|Kind=1|AlternatePart= 
 Variation3=Designator=TP2|UniqueId=\CTJKUFZO|Kind=1|AlternatePart= 
@@ -654,6 +654,7 @@ Variation27=Designator=TP29|UniqueId=\ARKMWBWG\QSDOMZCG|Kind=1|AlternatePart=
 Variation28=Designator=TP17|UniqueId=\MWVVQQGO\HCDTEMIC|Kind=1|AlternatePart= 
 Variation29=Designator=TP18|UniqueId=\TISJCWXY\ECNKTJGL|Kind=1|AlternatePart= 
 Variation30=Designator=TP30|UniqueId=\BOOPYNGE\MJHYJWXN|Kind=1|AlternatePart= 
+Variation31=Designator=R53|UniqueId=\BOOPYNGE\FZSWVYOH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -775,7 +776,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
