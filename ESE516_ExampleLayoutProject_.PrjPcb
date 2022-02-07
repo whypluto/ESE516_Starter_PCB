@@ -584,46 +584,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSAMFVFY
 
-[Document33]
-DocumentPath=button2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=16
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZWLNJRXI
-
-[Document34]
-DocumentPath=button3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YTNOMYPZ
-
 [ProjectVariant1]
 UniqueID=BC0CE679-049C-4B69-94F9-44606582BF8E
 Description=Build_Alt
 AllowFabrication=0
 ParameterCount=0
-VariationCount=31
+VariationCount=36
 Variation1=Designator=TP1|UniqueId=\NJVBXXVZ|Kind=1|AlternatePart= 
 Variation2=Designator=TP3|UniqueId=\MFGVQVPB|Kind=1|AlternatePart= 
 Variation3=Designator=TP2|UniqueId=\CTJKUFZO|Kind=1|AlternatePart= 
@@ -655,6 +621,11 @@ Variation28=Designator=TP17|UniqueId=\MWVVQQGO\HCDTEMIC|Kind=1|AlternatePart=
 Variation29=Designator=TP18|UniqueId=\TISJCWXY\ECNKTJGL|Kind=1|AlternatePart= 
 Variation30=Designator=TP30|UniqueId=\BOOPYNGE\MJHYJWXN|Kind=1|AlternatePart= 
 Variation31=Designator=R53|UniqueId=\BOOPYNGE\FZSWVYOH|Kind=1|AlternatePart= 
+Variation32=Designator=TP12|UniqueId=\KABPZABH\QMDQUKEB|Kind=1|AlternatePart= 
+Variation33=Designator=TP13|UniqueId=\KABPZABH\WIZSCYYN|Kind=1|AlternatePart= 
+Variation34=Designator=TP14|UniqueId=\KABPZABH\UYORGEPY|Kind=1|AlternatePart= 
+Variation35=Designator=TP15|UniqueId=\KABPZABH\BMLFJXMJ|Kind=1|AlternatePart= 
+Variation36=Designator=TP16|UniqueId=\KABPZABH\AICWKVGQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -776,7 +747,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
