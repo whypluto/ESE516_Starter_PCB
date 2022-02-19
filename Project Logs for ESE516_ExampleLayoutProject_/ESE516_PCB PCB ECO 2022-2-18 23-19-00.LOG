@@ -1,0 +1,3 @@
+Added Component: Designator=TP36(PCBComponent)
+Added Pin To Net: NetName=LDO_VOUT_7 Pin=TP36-1
+Added Member To Class: ClassName=U_Joystick Member=Component TP36 0.1" Pad

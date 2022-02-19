@@ -623,7 +623,7 @@ UniqueID=BC0CE679-049C-4B69-94F9-44606582BF8E
 Description=Build_Alt
 AllowFabrication=0
 ParameterCount=0
-VariationCount=42
+VariationCount=43
 Variation1=Designator=TP1|UniqueId=\NJVBXXVZ|Kind=1|AlternatePart= 
 Variation2=Designator=TP3|UniqueId=\MFGVQVPB|Kind=1|AlternatePart= 
 Variation3=Designator=TP2|UniqueId=\CTJKUFZO|Kind=1|AlternatePart= 
@@ -666,6 +666,7 @@ Variation39=Designator=R52|UniqueId=\YDDIEYUY|Kind=1|AlternatePart=
 Variation40=Designator=R55|UniqueId=\LBYVTCYP|Kind=1|AlternatePart= 
 Variation41=Designator=R40|UniqueId=\JEIXCVAO|Kind=1|AlternatePart= 
 Variation42=Designator=TP35|UniqueId=\KABPZABH\COWTMUHW|Kind=1|AlternatePart= 
+Variation43=Designator=TP36|UniqueId=\ARKMWBWG\ASURFWWP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
