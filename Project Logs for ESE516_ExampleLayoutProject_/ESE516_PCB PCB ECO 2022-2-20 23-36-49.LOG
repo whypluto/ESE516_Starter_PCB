@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ENC_A_1 Pin=U4-9
+Removed Pin From Net: NetName=ENC_B_1 Pin=U4-22
+Added Pin To Net: NetName=ENC_B_1 Pin=U4-9
+Added Pin To Net: NetName=ENC_A_1 Pin=U4-22
+Added Member To Class: ClassName=U_FTDI Member=Component D5 LTST-C170CKT
+Added Member To Class: ClassName=U_Memory Member=Component R13 10K 1% 0603(1608)
