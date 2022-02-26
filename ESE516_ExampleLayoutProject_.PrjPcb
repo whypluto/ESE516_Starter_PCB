@@ -671,6 +671,10 @@ Variation44=Designator=R45|UniqueId=\ARKMWBWG\CIKBKWLD|Kind=1|AlternatePart=
 Variation45=Designator=R46|UniqueId=\ARKMWBWG\TCHXFHDT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESE516_ExampleLayoutProject_\Design Rule Check - ESE516_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -790,7 +794,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
