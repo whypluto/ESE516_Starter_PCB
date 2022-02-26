@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SIG_B_OUT_1 Pin=U4-9
+Removed Pin From Net: NetName=SIG_A_OUT_1 Pin=U4-22
+Added Pin To Net: NetName=SIG_B_OUT_6 Pin=U4-9
+Added Pin To Net: NetName=SIG_A_OUT_6 Pin=U4-22
+Change Net Name : Old Net Name=SIG_A_OUT_1 New Net Name=R_ENC_PINA_6
+Change Net Name : Old Net Name=SIG_A_OUT_6 New Net Name=SIG_A_OUT_1
+Change Net Name : Old Net Name=SIG_B_OUT_1 New Net Name=R_ENC_PINB_6
+Change Net Name : Old Net Name=SIG_B_OUT_6 New Net Name=SIG_B_OUT_1
