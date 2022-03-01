@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:00:41 On 2022/3/1
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Build_Alt] of Project [ESE516_ExampleLayoutProject_.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 17:00:44 On 2022/3/1
